@@ -23,6 +23,23 @@
     }
 }
 
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+
+.platypus_header_nav {
+    margin: 0rem 0.5rem;
+}
+
+.platypus_header_navbar {
+    margin: 1rem 0;
+}
 
 
 
